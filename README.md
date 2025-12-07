@@ -29,6 +29,6 @@ A complementary PDF report summarizes conclusions and provides actionable busine
 (4)Geographical Expansion: Strengthen Tier-2 and Tier-3 market presence.
 (5)Loyalty Programs: Reward repeat customers to boost retention.
 
-👤 About the Analyst:
+About the Analyst:
 Debadrito Saha
 Data Analyst | Excel | Business Insights | Data Visualization
